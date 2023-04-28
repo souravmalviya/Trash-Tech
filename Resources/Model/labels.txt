@@ -1,0 +1,10 @@
+0 Nothing
+1 Fruits
+2 Pen
+3 Wrapper
+4 Paper
+5 Battery
+6 Circuit
+7 Wire
+8 Mobile
+9 Injection
